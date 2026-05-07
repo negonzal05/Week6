@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="AP">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=ADVSQL;Initial Catalog=AP</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>a5eb02e2-5185-4048-a39f-de6a1637fd9c</DataSourceID>
+</RptDataSource>

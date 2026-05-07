@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "week6Assigmnet", "week6Assigmnet.rptproj", "{B98E416F-858C-A17A-DB0E-A15DF78DD78D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98E416F-858C-A17A-DB0E-A15DF78DD78D}.Debug|Default.ActiveCfg = Debug
+		{B98E416F-858C-A17A-DB0E-A15DF78DD78D}.Debug|Default.Build.0 = Debug
+		{B98E416F-858C-A17A-DB0E-A15DF78DD78D}.Debug|Default.Deploy.0 = Debug
+		{B98E416F-858C-A17A-DB0E-A15DF78DD78D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{B98E416F-858C-A17A-DB0E-A15DF78DD78D}.DebugLocal|Default.Build.0 = DebugLocal
+		{B98E416F-858C-A17A-DB0E-A15DF78DD78D}.Release|Default.ActiveCfg = Release
+		{B98E416F-858C-A17A-DB0E-A15DF78DD78D}.Release|Default.Build.0 = Release
+		{B98E416F-858C-A17A-DB0E-A15DF78DD78D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBDA08E1-0E8F-4403-8CC8-5C1346897920}
+	EndGlobalSection
+EndGlobal
